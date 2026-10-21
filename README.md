@@ -1,5 +1,5 @@
 <!-- Header banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&color=0:0d1117,100:1f6feb" width="100%" alt="Decorative dark blue wave banner" />
+<img src="assets/gifs/matrix-data-banner.gif" width="100%" alt="Animated banner of green binary data streams flowing on a black background" />
 
 <h1 align="center">Hi, I'm Prajot Shrivastava 👋</h1>
 
