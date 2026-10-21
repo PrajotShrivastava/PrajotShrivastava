@@ -170,4 +170,4 @@ My work so far ranges from classical machine learning experiments with scikit-le
   -->
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&color=0:1f6feb,100:0d1117" width="100%" alt="Decorative dark blue wave footer" />
+<img src="assets/gifs/matrix-data-footer.gif" width="100%" alt="Animated footer of green binary data streams flowing on a black background" />
