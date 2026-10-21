@@ -1,10 +1,14 @@
 <!-- Header banner -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=header&color=0:0d1117,100:1f6feb" width="100%" alt="Decorative dark blue wave banner" />
 
-<h1 align="center">Hi, I'm Prajot Shrivastava</h1>
+<h1 align="center">Hi, I'm Prajot Shrivastava 👋</h1>
 
 <p align="center">
-  <b>Data Science · Machine Learning · Full Stack Development</b><br/>
+  <img src="assets/gifs/avedeto-pixel-art-12601.gif" width="180" alt="Pixel-art animation of a developer typing at a computer" />
+</p>
+
+<p align="center">
+  <b>Python · Data Science · Machine Learning · Artificial Intelligence · Full Stack Development</b><br/>
   Final-year B.Tech IT student who turns data into models and models into products.
 </p>
 
@@ -24,20 +28,25 @@
 
 ---
 
-## About Me
+## 🧑‍💻 About Me
+
+<img src="assets/gifs/design-illustration.gif" align="right" width="220" alt="Animated illustration of a machine turning language and data into charts" />
 
 I'm a final-year B.Tech Information Technology student who likes problems that sit between data and software. I enjoy exploring a dataset until it starts telling a story, building a model that captures it, and then wrapping it in an application people can actually use.
 
 My work so far ranges from classical machine learning experiments with scikit-learn to full-stack web apps and a cross-platform mobile app. I care about clean structure, honest evaluation, and code that is tested and easy to read.
 
+- **Interests:** Python, Data Science, Machine Learning, Artificial Intelligence, and Full Stack Development
 - **Focus:** data analysis, machine learning, and full-stack development
 - **Learning:** advanced Python, ML workflows, and model deployment
 - **Goal:** grow into a Data Scientist / ML Engineer who builds impactful, real-world products
 - **Open to:** internships, entry-level roles, and collaboration on data or ML projects
 
+<br clear="right" />
+
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
 **Languages**
 
@@ -94,7 +103,7 @@ My work so far ranges from classical machine learning experiments with scikit-le
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 <table>
   <tr>
@@ -137,20 +146,7 @@ My work so far ranges from classical machine learning experiments with scikit-le
 
 ---
 
-## GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PrajotShrivastava&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Prajot's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrajotShrivastava&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Prajot's most used languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=PrajotShrivastava&theme=tokyonight&hide_border=true&background=0d1117" alt="Prajot's GitHub contribution streak" />
-</p>
-
----
-
-## Currently Working On
+## 🌱 Currently Working On
 
 <!-- Update this list as your focus changes -->
 
@@ -161,7 +157,7 @@ My work so far ranges from classical machine learning experiments with scikit-le
 
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
 <p>
   <a href="https://github.com/PrajotShrivastava"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
