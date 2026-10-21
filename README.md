@@ -161,9 +161,7 @@ My work so far ranges from classical machine learning experiments with scikit-le
 
 <p>
   <a href="https://github.com/PrajotShrivastava"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
-  <!-- TODO: replace YOUR-LINKEDIN-ID with your LinkedIn handle, then uncomment
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn profile" /></a>
-  -->
+  <a href="https://www.linkedin.com/in/prajotshrivastava/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge" alt="LinkedIn profile" /></a>
   <!-- TODO: replace with your portfolio URL, then uncomment
   <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-1f6feb?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio website" /></a>
   -->
